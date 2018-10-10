@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-admob-unity",
+  "version": "1.0.0",
+  "description": "Cordova AdMob Mediation Plugin for Unity Ads",
+  "scripts": {
+    "version": "sync-package-version --cordova-plugin"
+  },
+  "cordova": {
+    "id": "cordova-plugin-admob-unity",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
